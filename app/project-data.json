@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "name": "Contributor Onboarding",
+      "owner": "Mona Patel",
+      "status": "Active",
+      "recentActivity": "Drafted the first-time contributor checklist",
+      "priority": "High"
+    },
+    {
+      "name": "API Reliability",
+      "owner": "Jordan Lee",
+      "status": "At Risk",
+      "recentActivity": "Load-test results surfaced a queue bottleneck",
+      "priority": "Critical"
+    },
+    {
+      "name": "Design System Refresh",
+      "owner": "Riley Chen",
+      "status": "Planned",
+      "recentActivity": "Collected feedback on the new navigation patterns",
+      "priority": "Medium"
+    },
+    {
+      "name": "Mobile Release 3.4",
+      "owner": "Sam Rivera",
+      "status": "Completed",
+      "recentActivity": "Shipped the accessibility fixes to production",
+      "priority": "Low"
+    }
+  ]
+}
